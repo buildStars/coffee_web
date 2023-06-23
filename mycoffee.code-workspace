@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../vue自学"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../上课内容"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "mycoffee"
+	}
+}

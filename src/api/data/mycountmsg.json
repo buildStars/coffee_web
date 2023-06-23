@@ -1,0 +1,14 @@
+{
+    "msg": "查询账号管理信息成功",
+    "code": "B001",
+    "result": [
+        {
+            "userId": "coffe1663642393789",
+            "phone": "18407535222",
+            "nickName": "LRX",
+            "userImg": "http://www.kangliuyong.com:10002/assets/coffeeshop39755542687388171663642472675.png",
+            "desc": "",
+            "vip": 0
+        }
+    ]
+}
